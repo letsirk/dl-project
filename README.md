@@ -15,4 +15,4 @@ iWildCam 2019 - FGVC6: [https://www.kaggle.com/c/iwildcam-2019-fgvc6](https://ww
 * copy the created files to \input\preprocess\changing-image-dimensions-to-3x32x32\
   
 ## Code
-Pytorch CNN model with Darknet-53 architecture: [coming soon](coming soon)
+Pytorch CNN model with Darknet-53 architecture: [dl-project-code](https://letsirk.github.io/dl-project/)
