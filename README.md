@@ -1,10 +1,17 @@
-# Deep Learning Project
+# Deep Learning Project (05/2019)
 
 ## Introduction
 
 A project for [Kaggle competition about categorizing animals in the wild](https://www.kaggle.com/c/iwildcam-2019-fgvc6) using deep learning based methods. The purpose of this project is to implement a CNN-based model for image classification task. Therefore, the solution utilizes the arhictecture of [YOLOv3](https://pjreddie.com/media/files/papers/YOLOv3.pdf) model by implementing the Darknet-53 backbone and its head from scratch using PyTorch library. The assembled model is trained and validated using the datasets provided in the Kaggle competition. A submission with a low score was achieved. This project is a preceding step for my Master's thesis, [Increasing the safety in the proximity of the mobile working machines: a study of detecting people](http://urn.fi/URN:NBN:fi:aalto-202110249676), that takes advantage of the [Scaled-YOLOv4](https://arxiv.org/abs/2011.08036) model. 
 
 The project was accomplished during Deep Learning course.
+
+## Techniques and Tools
+The project utilizes following techniques and tools:
+* Python and Jupyter Notebook 
+  * [scikit-learn](https://scikit-learn.org/stable/) library to access general metrics (e.g. confusion matrix and accuracy score)
+  * [PyTorch](https://pytorch.org/) library to access Deep Learning functionalities and CUDA resources
+  * other general libaries to manipulate and show data (pandas, seaborn, matplotlib, numpy) 
 
 ## Instructions
 
