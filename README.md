@@ -2,9 +2,9 @@
 
 ## Introduction
 
-A project for [Kaggle competition about categorizing animals in the wild](https://www.kaggle.com/c/iwildcam-2019-fgvc6) using deep learning based methods. The purpose of this project is to implement a CNN-based model for image classification task. Therefore, the solution utilizes the arhictecture of [YOLOv3](https://pjreddie.com/media/files/papers/YOLOv3.pdf) model by implementing the Darknet-53 backbone and its head from scratch using PyTorch library. The assembled model is trained and validated using the datasets provided in the Kaggle competition. A submission with a low score was achieved. This project is a preceding step for my Master's thesis, [Increasing the safety in the proximity of the mobile working machines: a study of detecting people](http://urn.fi/URN:NBN:fi:aalto-202110249676), that takes advantage of the [Scaled-YOLOv4](https://arxiv.org/abs/2011.08036) model. 
+A project for [Kaggle competition about categorizing animals in the wild](https://www.kaggle.com/c/iwildcam-2019-fgvc6) using deep learning based methods. The purpose of this project is to implement a CNN-based model for image classification task. Therefore, the solution utilizes the arhictecture of [YOLOv3](https://pjreddie.com/media/files/papers/YOLOv3.pdf) model by implementing the Darknet-53 backbone and its head from scratch using PyTorch library. The assembled model is trained and validated using the datasets provided in the Kaggle competition. A submission with a low score was achieved. The detailed information about the project and its results can be found [here](https://github.com/letsirk/dl-project/blob/master/deep-learning-project-report.pdf). 
 
-The project was accomplished during Deep Learning course.
+Furthermore, the project was accomplished during *Deep Learning* course with an aim of contributing towards my Master's thesis, [Increasing the safety in the proximity of the mobile working machines: a study of detecting people](http://urn.fi/URN:NBN:fi:aalto-202110249676), that takes advantage of the [Scaled-YOLOv4](https://arxiv.org/abs/2011.08036) model. 
 
 ## Techniques and Tools
 The project utilizes following techniques and tools:
